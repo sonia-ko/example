@@ -2,3 +2,6 @@
 log.txt
 #static file
 1.html
+
+#auto-generated directories
+autogen/*
